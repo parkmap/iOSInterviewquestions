@@ -63,14 +63,14 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.ˆî](iOS/Dynamic%20Library와%20Static%20Library의%20차이점에%20대해%20설명해보세요..md)
 
 ## Autolayout
-- 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
-- hugging, resistance에 대해서 설명하시오.
-- Intrinsic Size에 대해서 설명하시오.
-- 스토리보드를 이용했을때의 장단점을 설명하시오.
-- Safearea에 대해서 설명하시오.
-- Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
-- Auto Layout과 Frame-based Layout의 차이점은 무엇인가요?
-- 성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?
+- [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](Autolayout/오토레이아웃을%20코드로%20작성하는%20방법은%20무엇인가?%20(3가지).md)
+- [hugging, resistance에 대해서 설명하시오.](Autolayout/hugging,%20resistance에%20대해서%20설명하시오..md)
+- [Intrinsic Size에 대해서 설명하시오.](Autolayout/Intrinsic%20Size에%20대해서%20설명하시오..md)
+- [스토리보드를 이용했을때의 장단점을 설명하시오.](Autolayout/스토리보드를%20이용했을때의%20장단점을%20설명하시오..md)
+- [Safearea에 대해서 설명하시오.](Autolayout/Safearea에%20대해서%20설명하시오..md)
+- [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](Autolayout/Left%20Constraint%20와%20Leading%20Constraint%20의%20차이점을%20설명하시오..md)
+- [Auto Layout과 Frame-based Layout의 차이점은 무엇인가요?](Autolayout/Auto%20Layout과%20Frame-based%20Layout의%20차이점은%20무엇인가요?.md)
+- [성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?](Autolayout/성능%20향상을%20위해%20어떤%20디버깅%20도구를%20사용할%20수%20있나요?%20각각의%20디버깅%20도구는%20어떤%20상황에서%20사용하는%20것이%20좋나요?.md)
 
 ## Swift
 - struct와 class와 enum의 차이를 설명하시오.
