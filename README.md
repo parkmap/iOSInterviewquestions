@@ -22,45 +22,45 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 
 ## iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](iOS/Bounds%20와%20Frame%20의%20차이점을%20설명하시오.md)
-- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
-- 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
-- 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
-- App thinning에 대해서 설명하시오.
+- [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.](iOS/실제%20디바이스가%20없을%20경우%20개발%20환경에서%20할%20수%20있는%20것과%20없는%20것을%20설명하시오..md)
+- [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](iOS/앱의%20콘텐츠나%20데이터%20자체를%20저장/보관하는%20특별한%20객체를%20무엇이라고%20하는가?.md)
+- [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](iOS/앱%20화면의%20콘텐츠를%20표시하는%20로직과%20관리를%20담당하는%20객체를%20무엇이라고%20하는가?.md)
+- [App thinning에 대해서 설명하시오.](iOS/App%20thinning에%20대해서%20설명하시오..md)
 ###
-- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
-- @Main에 대해서 설명하시오.
-- 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
-- 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
-- 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
-- scene delegate에 대해 설명하시오.
-- UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
-- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+- [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?](iOS/앱이%20시작할%20때%20main.c%20에%20있는%20UIApplicationMain%20함수에%20의해서%20생성되는%20객체는%20무엇인가?.md)
+- [@Main에 대해서 설명하시오.](iOS/@Main에%20대해서%20설명하시오..md)
+- [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](iOS/앱이%20foreground에%20있을%20때와%20background에%20있을%20때%20어떤%20제약사항이%20있나요?.md)
+- [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](iOS/상태%20변화에%20따라%20다른%20동작을%20처리하기%20위한%20앱델리게이트%20메서드들을%20설명하시오..md)
+- [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](iOS/앱이%20In-Active%20상태가%20되는%20시나리오를%20설명하시오..md)
+- [scene delegate에 대해 설명하시오.](iOS/scene%20delegate에%20대해%20설명하시오..md)
+- [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](iOS/UIApplication%20객체의%20컨트롤러%20역할은%20어디에%20구현해야%20하는가?.md)
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](iOS/App의%20Not%20running,%20Inactive,%20Active,%20Background,%20Suspended에%20대해%20설명하시오..md)
 ###
-- iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
-- Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
-- Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
-- NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
-- UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
-- App Bundle의 구조와 역할에 대해 설명하시오.
-- 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
-- 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
-- View 객체에 대해 설명하시오.
-- UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
-- iOS에서 뷰(View)와 레이어(Layer)의 개념과 차이점에 대해 설명해보세요.
-- UIWindow 객체의 역할은 무엇인가?
-- UINavigationController 의 역할이 무엇인지 설명하시오.
-- TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
-- 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
-- setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.
-- stackView의 장점과 단점에 대해서 설명하시오.
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?](iOS/iOS%20앱을%20만들고,%20User%20Interface를%20구성하는%20데%20필수적인%20프레임워크%20이름은%20무엇인가?.md)
+- [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](iOS/Foundation%20Kit은%20무엇이고%20포함되어%20있는%20클래스들은%20어떤%20것이%20있는지%20설명하시오..md)
+- [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](iOS/Delegate란%20무엇인지%20설명하고,%20retain%20되는지%20안되는지%20그%20이유를%20함께%20설명하시오..md)
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](iOS/NotificationCenter%20동작%20방식과%20활용%20방안에%20대해%20설명하시오..md)
+- [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](iOS/UIKit%20클래스들을%20다룰%20때%20꼭%20처리해야하는%20애플리케이션%20쓰레드%20이름은%20무엇인가?.md)
+- [App Bundle의 구조와 역할에 대해 설명하시오.](iOS/App%20Bundle의%20구조와%20역할에%20대해%20설명하시오..md)
+- [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](iOS/모든%20View%20Controller%20객체의%20상위%20클래스는%20무엇이고%20그%20역할은%20무엇인가?.md)
+- [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](iOS/자신만의%20Custom%20View를%20만들려면%20어떻게%20해야하는지%20설명하시오..md)
+- [View 객체에 대해 설명하시오.](iOS/View%20객체에%20대해%20설명하시오..md)
+- [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](iOS/UIView%20에서%20Layer%20객체는%20무엇이고%20어떤%20역할을%20담당하는지%20설명하시오..md)
+- [iOS에서 뷰(View)와 레이어(Layer)의 개념과 차이점에 대해 설명해보세요.](iOS/iOS에서%20뷰(View)와%20레이어(Layer)의%20개념과%20차이점에%20대해%20설명해보세요..md)
+- [UIWindow 객체의 역할은 무엇인가?](iOS/UIWindow%20객체의%20역할은%20무엇인가?.md)
+- [UINavigationController 의 역할이 무엇인지 설명하시오.](iOS/UINavigationController%20의%20역할이%20무엇인지%20설명하시오..md)
+- [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](iOS/TableView를%20동작%20방식과%20화면에%20Cell을%20출력하기%20위해%20최소한%20구현해야%20하는%20DataSource%20메서드를%20설명하시오..md)
+- [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.](iOS/하나의%20View%20Controller%20코드에서%20여러%20TableView%20Controller%20역할을%20해야%20할%20경우%20어떻게%20구분해서%20구현해야%20하는지%20설명하시오..md)
+- [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](iOS/setNeedsLayout와%20setNeedsDisplay의%20차이에%20대해%20설명하시오..md)
+- [stackView의 장점과 단점에 대해서 설명하시오.](iOS/stackView의%20장점과%20단점에%20대해서%20설명하시오..md)
 ###
-- NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
-- URLSession에 대해서 설명하시오.
-- prepareForReuse에 대해서 설명하시오.
-- 다크모드를 지원하는 방법에 대해 설명하시오.
-- ViewController의 생명주기를 설명하시오.
-- TableView와 CollectionView의 차이점을 설명하시오.
-- Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.
+- [NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.](iOS/NSCache와%20딕셔너리로%20캐시를%20구성했을때의%20차이를%20설명하시오..md)
+- [URLSession에 대해서 설명하시오.](iOS/URLSession에%20대해서%20설명하시오..md)
+- [prepareForReuse에 대해서 설명하시오.](iOS/prepareForReuse에%20대해서%20설명하시오..md)
+- [다크모드를 지원하는 방법에 대해 설명하시오.](iOS/다크모드를%20지원하는%20방법에%20대해%20설명하시오..md)
+- [ViewController의 생명주기를 설명하시오.](iOS/ViewController의%20생명주기를%20설명하시오..md)
+- [TableView와 CollectionView의 차이점을 설명하시오.](iOS/TableView와%20CollectionView의%20차이점을%20설명하시오..md)
+- [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.ˆî](iOS/Dynamic%20Library와%20Static%20Library의%20차이점에%20대해%20설명해보세요..md)
 
 ## Autolayout
 - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
