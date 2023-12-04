@@ -60,10 +60,10 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - [다크모드를 지원하는 방법에 대해 설명하시오.](iOS/다크모드를%20지원하는%20방법에%20대해%20설명하시오..md)
 - [ViewController의 생명주기를 설명하시오.](iOS/ViewController의%20생명주기를%20설명하시오..md)
 - [TableView와 CollectionView의 차이점을 설명하시오.](iOS/TableView와%20CollectionView의%20차이점을%20설명하시오..md)
-- [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.ˆî](iOS/Dynamic%20Library와%20Static%20Library의%20차이점에%20대해%20설명해보세요..md)
+- [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.](iOS/Dynamic%20Library와%20Static%20Library의%20차이점에%20대해%20설명해보세요..md)
 
 ## Autolayout
-- [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](Autolayout/오토레이아웃을%20코드로%20작성하는%20방법은%20무엇인가?%20(3가지).md)
+- [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](Autolayout/오토레이아웃을%20코드로%20작성하는%20방법은%20무엇인가%3F%20(3가지).md)
 - [hugging, resistance에 대해서 설명하시오.](Autolayout/hugging,%20resistance에%20대해서%20설명하시오..md)
 - [Intrinsic Size에 대해서 설명하시오.](Autolayout/Intrinsic%20Size에%20대해서%20설명하시오..md)
 - [스토리보드를 이용했을때의 장단점을 설명하시오.](Autolayout/스토리보드를%20이용했을때의%20장단점을%20설명하시오..md)
