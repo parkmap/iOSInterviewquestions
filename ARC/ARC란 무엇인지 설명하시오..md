@@ -52,3 +52,6 @@ ARC에 대한 자세한 내용은 Apple의 문서를 참조하세요.
 
 [https://developer.apple.com/documentation/swift/automatic_reference_counting](https://developer.apple.com/documentation/swift/automatic_reference_counting)
 [https://developer.apple.com/documentation/objectivec/memory_management/automatic_reference_counting](https://developer.apple.com/documentation/objectivec/memory_management/automatic_reference_counting)
+
+
+[목록](../README_link.md)
