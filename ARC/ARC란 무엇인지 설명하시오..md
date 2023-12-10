@@ -45,9 +45,9 @@ ARC를 사용할 때 다음과 같은 점에 유의해야 합니다.
 | 성능을 향상시킵니다. | ARC가 메모리 관리를 처리하므로 CPU 사용량이 감소합니다. |
 | iOS 및 macOS에서 기본적으로 사용됩니다. | Objective-C에서는 ARC를 비활성화할 수 있습니다. |
 
+
 ARC에 대한 자세한 내용은 Apple의 문서를 참조하세요.
 
-```
-https://developer.apple.com/documentation/swift/automatic_reference_counting
-https://developer.apple.com/documentation/objectivec/memory_management/automatic_reference_counting
-```
+
+[https://developer.apple.com/documentation/swift/automatic_reference_counting](https://developer.apple.com/documentation/swift/automatic_reference_counting)
+[https://developer.apple.com/documentation/objectivec/memory_management/automatic_reference_counting](https://developer.apple.com/documentation/objectivec/memory_management/automatic_reference_counting)
