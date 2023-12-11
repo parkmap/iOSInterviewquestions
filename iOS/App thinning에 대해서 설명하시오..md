@@ -8,3 +8,5 @@ Bitcode: Bitcode는 컴파일러가 생성하는 중간 코드로, 앱 스토어
 
 ## 참고 
 1. [zeke velog](https://velog.io/@zeke/App-thinning-이란)
+
+[목록](../README_link.md)
