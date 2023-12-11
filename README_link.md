@@ -113,11 +113,11 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - [Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?](Swift/Swift에서%20타입%20안전성(type%20safety)은%20어떤%20방식으로%20보장되나요%3F.md)
 
 ## ARC
-- ARC란 무엇인지 설명하시오.
-- Retain Count 방식에 대해 설명하시오.
-- Strong 과 Weak 참조 방식에 대해 설명하시오.
-- 순환 참조에 대하여 설명하시오.
-- 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
+- [ARC란 무엇인지 설명하시오.](ARC란%20무엇인지%20설명하시오.md)
+- [Retain Count 방식에 대해 설명하시오.](Retain%20Count%20방식에%20대해%20설명하시오.md)
+- [Strong 과 Weak 참조 방식에 대해 설명하시오.](Strong%20과%20Weak%20참조%20방식에%20대해%20설명하시오.md)
+- [순환 참조에 대하여 설명하시오.](순환%20참조에%20대하여%20설명하시오.md)
+- [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](강한%20순환%20참조%20(Strong%20Reference%20Cycle)%20는%20어떤%20경우에%20발생하는지%20설명하시오.md)
 
 ## Functional Programming
 - 순수함수란 무엇인지 설명하시오.
