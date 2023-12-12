@@ -21,5 +21,8 @@
    - `UIWindow`는 상태 바(Status Bar)를 관리하며, 상태 바의 스타일이나 가시성 등을 제어합니다.
 
 `UIWindow`는 주로 앱의 초기 설정, 루트 뷰 컨트롤러의 관리, 화면 전환, 이벤트 처리 등의 역할을 담당하여 앱의 전반적인 흐름을 관리합니다.
+
+
+[UIWindow - Apple](https://developer.apple.com/documentation/uikit/uiwindow/)
  
  [목록](../README_link.md#ios)
